@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "type_traits": "c",
+        "directory.h": "c",
+        "pathname.h": "c",
+        "file.h": "c"
+    }
+}
